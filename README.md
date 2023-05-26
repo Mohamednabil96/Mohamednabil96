@@ -2,14 +2,15 @@
 
 <h3 align="center">
   Welcome to Mohamed Nabil's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<br/>
-<br/>
-//
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
+
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
-//
+
 <h3>🚀 About Me</h3> 
 <h4> I'm Mohamed Nabil from Egypt. I'm a Full Stack .Net Developer. I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing of designs. For This Moment I'm junior web developer and learning increasingly. </h4>
 
