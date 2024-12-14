@@ -9,10 +9,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-
-
-
-
  <br>
  
 - 👨‍💻 I'm Full-stack developer with expertise in Angular for front-end and .NET for back-end development.
@@ -50,6 +46,5 @@
 [![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/m.nabil27)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=flat-squaree&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=01554592044)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/nabil3/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/nabiil96)
 </br></br>
 
